@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sito della parrocchia Immacolata di Gioia del Colle
+title: Parrocchia Immacolata di Gioia del Colle
 description: >- # this means to ignore newlines until "baseurl:"
     Raccolta di canti liturgici e informazioni ad uso della comunità parrocchiale.
 domain: parrocchia-immacolata-gioia.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
@@ -25,14 +25,16 @@ url: https://parrocchia-immacolata-gioia.github.io  # the base hostname and prot
 
 author:
     name: Parrocchia Immacolata
-    email: Via Giuseppe Mazzini, 112, 70023 Gioia del Colle BA
-
-
+    adress: Via Giuseppe Mazzini, 112
+    city: 70023 Gioia del Colle BA
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 autor: ~
+
+header_pages:
+    - info.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

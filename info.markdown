@@ -4,15 +4,6 @@ title: Info
 permalink: /info/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Questo sito nasce dalla necessità di condividere informazioni e contenuti relativi alla vita parrocchiale.
+L'obiettivo principale nel realizzare il sito è stato quello di ridurre al minimo la difficoltà nel modificare
+ i contenuti del sito stesso, di modo tale da permettere a quanta più gente possibile di contribuire a mantenerlo.

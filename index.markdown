@@ -7,6 +7,15 @@ lang: it
 list_title: Messaggi
 ---
 <div/>
-# Orari messe con libretti dei canti
+# Orari messe
 ## Messe Feriali
+- 8:30
+- 18:30
 
+## Messe Festive
+- 8:30
+- 10:30
+- 18:30
+
+# Canti di accompagnamento alla messa
+[Messa domenicale delle 10:30](canti/canti_dieci_mezza)
