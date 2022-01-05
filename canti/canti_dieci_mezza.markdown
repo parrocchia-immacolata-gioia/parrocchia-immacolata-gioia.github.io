@@ -5,7 +5,7 @@ permalink: /canti/canti_dieci_mezza/
 ---
 
 ## Ingresso
-{% include 260L.md %}
+{% include L260.md %}
 
 ## Offertorio
 {% include 043.md %}
