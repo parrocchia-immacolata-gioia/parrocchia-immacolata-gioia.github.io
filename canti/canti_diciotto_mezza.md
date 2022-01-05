@@ -10,9 +10,8 @@ permalink: /canti/canti_diciotto_mezza/
 ## Offertorio
 {% include 043.md %}
 
-## Comunione
-{% include 200.md %}   
-{% include 046.md %}  
+## Comunione  
+{% include 044.md %}  
 {% include L017.md %}  
 
 ## Finale
