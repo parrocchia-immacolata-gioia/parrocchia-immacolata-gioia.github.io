@@ -8,12 +8,10 @@ permalink: /canti/canti_dieci_mezza/
 {% include canti/L219.md %}
 
 ## Offertorio
-{% include canti/181.md %}
+{% include canti/L214.md %}
 
 ## Comunione   
-{% include canti/L242.md %}   
-{% include canti/012.md %}  
-{% include canti/L279.md %}  
-
+{% include canti/096.md %}   
+{% include canti/248.md %}  
 ## Finale
-{% include canti/194.md %}
+{% include canti/017.md %}
