@@ -9,13 +9,15 @@ list_title: Messaggi
 <div/>
 # Orari messe
 ## Messe Feriali
-- 8:30
-- 18:30
+- 18:30 dal 1 ottobre al 31 maggio
+- 19:00 dal 1 giugno al 30 settembre
 
 ## Messe Festive
-- 8:30
+- 8:30 
+- 9:30 (chiesa di s. Antonio - Crocifisso)
 - 10:30
-- 18:30
+- 18:30 dal 1 ottobre al 31 maggio
+- 19:00 dal 1 giugno al 30 settembre
 
 # Canti di accompagnamento alla messa
 [Messa domenicale delle 10:30](canti/canti_dieci_mezza)  
