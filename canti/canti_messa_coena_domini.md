@@ -69,7 +69,7 @@ Quando ebbe lavato loro i piedi, riprese le sue vesti, sedette di nuovo e disse 
 
 Parola del Signore.   
 
-## Lavanda
+## Canto di meditazione
 {% include canti/L197.md %}     
 
 ## Offertorio
