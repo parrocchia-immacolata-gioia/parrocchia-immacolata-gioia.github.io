@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Canti per le messe della settimana santa
+title: Letture e canti per le messe della settimana santa
 permalink: /settimana_santa/
 ---  
 
