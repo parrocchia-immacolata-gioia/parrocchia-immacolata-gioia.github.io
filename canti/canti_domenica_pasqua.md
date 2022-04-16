@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Canti per la messa domenicale delle 18:30
-permalink: /canti/canti_diciotto_mezza/
+title: Canti per le messe della domenica di Pasqua
+permalink: /canti/canti_domenica_pasqua/
 ---
 
 ## Ingresso
