@@ -22,6 +22,3 @@ list_title: Messaggi
 # Canti di accompagnamento alla messa
 [Messa domenicale delle 10:30](canti/canti_dieci_mezza)  
 [Messa domenicale delle 18:30](canti/canti_diciotto_mezza)  
-
-# Settimana Santa
-[Letture e canti per le messe della settimana santa](settimana_santa)   
