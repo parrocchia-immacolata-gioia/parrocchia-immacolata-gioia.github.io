@@ -11,11 +11,11 @@ permalink: /canti/canti_ceneri/
 {% include canti/L143.md %}   
 
 ## Offertorio
-{% include canti/181.md %}
+{% include canti/238.md %}
 
 ## Comunione   
 {% include canti/153.md %}   
-{% include canti/157.md %}  
+{% include canti/L073.md %}  
 
 ## Finale
 {% include canti/249.md %}
