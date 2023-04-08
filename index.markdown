@@ -20,8 +20,11 @@ list_title: Messaggi
 - 18:30 dal 1 ottobre al 31 maggio
 - 19:00 dal 1 giugno al 30 settembre
 
-# Liturgia della Passione
-[Canti di accompagnamento alla messa](canti/liturgia_passione)
+# Veglia Pasquale
+[Ufficio delle letture e canti di accompagnamento alla messa](canti/veglia_pasquale)   
+
+# Messa di Pasqua
+[Canti di accompagnamento alla messa](canti/canti_domenica_pasqua)   
 
 # Canti di accompagnamento alla messa
 [Messa domenicale delle 10:30](canti/canti_dieci_mezza)  
