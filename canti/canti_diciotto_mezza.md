@@ -5,13 +5,13 @@ permalink: /canti/canti_diciotto_mezza/
 ---
 
 ## Ingresso
-{% include canti/L258.md %}     
+{% include canti/001.md %}   
 
 ## Offertorio
-{% include canti/238.md %}   
+{% include canti/077.md %}   
 
 ## Comunione   
-{% include canti/064.md %}   
+{% include canti/004.md %}   
 
 ## Finale
-{% include canti/144.md %}
+{% include canti/152.md %}   
