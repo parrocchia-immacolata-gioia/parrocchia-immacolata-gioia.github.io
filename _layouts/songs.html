@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    {%- include header.html -%}
+	
+    <main class="page-content" aria-label="Content">
+		<div class="wrapper">
+			<article class="post">
+				<header class="post-header">
+					<h1 class="post-title">{{ page.title | escape }}</h1>
+				</header>
+				<div class="post-content">
+					<div class="wrapper">
+						<div id="json">
+							<div class="loader"/>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+    </main>
+
+    {%- include footer.html -%}
+	<script>
+		window.onload = function() {
+			function includeHTML() {
+				var z, i, elmnt, file, xhttp;
+				/* Loop through a collection of all HTML elements: */
+				z = document.getElementsByTagName("*");
+				for (i = 0; i < z.length; i++) {
+					elmnt = z[i];
+					/*search for elements with a certain atrribute:*/
+					file = elmnt.getAttribute("w3-include-html");
+					if (file) {
+						/* Make an HTTP request using the attribute value as the file name: */
+						xhttp = new XMLHttpRequest();
+						xhttp.onreadystatechange = function() {
+							if (this.readyState == 4) {
+								if (this.status == 200) {
+									const node = document.createElement("main");
+									node.innerHTML = this.responseText;
+									elmnt.removeChild(elmnt.firstElementChild);
+									elmnt.appendChild(node.getElementsByClassName("page-content")[0].firstElementChild);
+								}
+								if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+								/* Remove the attribute, and call this function once more: */
+								elmnt.removeAttribute("w3-include-html");
+								includeHTML();
+							}
+						}
+						xhttp.open("GET", file, true);
+						xhttp.send();
+						/* Exit the function: */
+						return;
+					}
+				}
+			}
+			
+			function myItems(jsonString){
+				var json = JSON.parse(jsonString);			
+				
+				var list = '';
+				json.table.cols.forEach(function (col, index) {
+					list += '<h2 id="';
+					list += col.label.toLowerCase().replace(".", "").replace(" ","-");
+					list += '">';
+					list += col.label;
+					list += '</h2>\n';
+					
+					json.table.rows.forEach(row => {
+						var cell = row.c[index]
+						if(cell != null && cell.v != null) {
+							var songNumber = cell.v;
+							if(songNumber.startsWith("F")) {
+								songNumber = songNumber.substring(1);
+							}
+							list += '<div w3-include-html="../../libretto/' + songNumber + '/"><div class="loader"></div></div>\n';
+						}
+					})
+				})
+				
+				return list;
+			}
+		
+  
+			var id = '1zi7P5arB3GfpoCOiWENbkXPhLrlLz3i1QkCzdGxNdZ0';
+			var gid = {{ page.gid }};
+			var url = 'https://docs.google.com/spreadsheets/d/'+id+'/gviz/tq?tqx=out:json&tq&headers=1&gid='+gid;
+			fetch(url)
+				.then(response => response.text())
+				.then(data => document.getElementById("json").innerHTML=myItems(data.slice(47, -2)))
+				.then(a => includeHTML());
+		}
+	</script>
+  </body>
+
+</html>
