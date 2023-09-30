@@ -69,6 +69,7 @@ permalink: /libretto/libretto/
 [ 163. VIENI SANTO SPIRITO](/libretto/163/)   
 [ 173. AL SIGNORE CANTERÒ](/libretto/173/)   
 [ 181. PANE E VINO TI OFFRIAMO](/libretto/181/)   
+[ 183. GLORIA A DIO](/libretto/183/)   
 [ 186. INCONTRARE TE](/libretto/186/)   
 [ 193. FIOR DI FRUMENTO](/libretto/193/)   
 [ 194. TESTIMONI DELL'AMORE](/libretto/194/)   
