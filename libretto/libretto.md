@@ -48,6 +48,7 @@ permalink: /libretto/libretto/
 [ 71. BEATI I POVERI](/libretto/071/)   
 [ 72. BENEDIRÒ IL SIGNORE](/libretto/072/)   
 [ 73. SYMBOLUM '80 (MA LA TUA PAROLA)](/libretto/073/)   
+[ 74. QUESTO PANE SPEZZATO](/libretto/074/)   
 [ 75. OGGI CI HAI CHIAMATI](/libretto/075/)   
 [ 77. I FRUTTI CHE CI DAI](/libretto/077/)   
 [ 80. CI ACCOGLI ALLA TUA MENSA](/libretto/080/)   
