@@ -141,6 +141,7 @@ permalink: /libretto/libretto/
 [ 274. CHRISTE LUX MUNDI](/libretto/274/)   
 [ 275. UBI CARITAS](/libretto/275/)   
 [ 276. ASCENDE](/libretto/276/)   
+[ 277. COME L’AURORA VERRAI](/libretto/277/)   
 [ L1. ACCLAMATE AL SIGNORE](/libretto/L001/)   
 [ L2. ACCOGLI I NOSTRI DONI](/libretto/L002/)   
 [ L3. ACCOGLIMI](/libretto/L003/)   
