@@ -7,31 +7,7 @@ permalink: /canti/canti_veglia_natale/
 # Ufficio delle letture 
 
 ## Inno
-
-Fiorì il germoglio di Iesse,  
-l'albero della vita  
-ha donato il suo frutto.
-
-Maria, figlia di Sion,  
-feconda e sempre vergine,  
-partorisce il Signore.  
-
-Nell'ombra del presepe,  
-giace povero ed umile  
-il creatore del mondo.  
-
-Il Dio che dal Sinai  
-promulgò i suoi decreti,  
-obbedisce alla legge.  
-
-Sorge una nuova luce  
-
-nella notte del mondo:  
-adoriamo il Signore!  
-
-A te sia gloria, Cristo,  
-con il Padre e lo Spirito  
-nei secoli dei secoli. Amen.  
+{% include canti/L269.md %}  
 
 
 ## SALMO 2  
@@ -214,39 +190,137 @@ oggi su tutta la terra i cieli stillano dolcezza.
 V. Risplende per noi il giorno di una nuova redenzione, giorno preparato da secoli, gioia senza fine.  
 R. Oggi su tutta la terra i cieli stillano dolcezza.  
 
+## Il mio Dio è fragile
+
+Il mio Dio non è un Dio duro, impenetrabile,   
+insensibile, stoico, impassibile.   
+Il mio Dio è fragile.   
+E’ della mia razza.   
+E io della sua.   
+Lui è uomo e io quasi Dio.   
+Perché io potessi assaporare la divinità   
+Lui amò il mio fango.   
+L’amore ha reso fragile il mio Dio.   
+Il mio Dio ebbe fame e sonno e si riposò.   
+Il mio Dio fu sensibile.   
+Il mio Dio si irritò, fu passionale,   
+e fu dolce come un bambino.   
+Il mio Dio fu nutrito da una madre,   
+ne sentì e bevve tutta la tenerezza femminile.   
+Il mio Dio tremò dinnanzi alla morte.   
+Non amò mai il dolore, non fu mai amico   
+della malattia. Per questo curò gli infermi.   
+Il mio Dio patì l’esilio,   
+fu perseguitato e acclamato.   
+Amò tutto quanto è umano, il mio Dio:   
+le cose e gli uomini, il pane e la donna;   
+i buoni e i peccatori.   
+Il mio Dio fu un uomo del suo tempo.   
+Vestiva come tutti,   
+parlava il dialetto della sua terra,   
+lavorava con le sue mani,   
+gridava come i profeti.   
+Il mio Dio fu debole con i deboli   
+e superbo con i superbi.   
+Morì giovane perché era sincero.   
+Lo uccisero perché lo tradiva la verità che era   
+nei suoi occhi.   
+Ma il mio Dio morì senza odiare.   
+Morì scusando più che perdonando.   
+Il mio Dio è fragile.   
+Il mio Dio ruppe con la vecchia morale   
+del dente per dente,   
+della vendetta meschina,   
+per inaugurare la frontiera di un amore   
+e di una violenza totalmente nuova.   
+Il mio Dio gettato nel solco,   
+schiacciato contro terra,   
+tradito, abbandonato, incompreso,   
+continuò ad amare.   
+Per questo il mio Dio vinse la morte.   
+E comparve con un frutto nuovo tra le mani:   
+la Resurrezione.   
+Per questo noi siamo tutti sulla via   
+della Resurrezione:   
+gli uomini e le cose.   
+E’ difficile per tanti il mio Dio fragile.   
+Il mio Dio che piange,   
+il mio Dio che non si difende.   
+E’ difficile il mio Dio abbandonato da Dio.   
+Il mio Dio che deve morire per trionfare.   
+Il mio Dio che fa di un ladro e criminale   
+il primo santo della sua Chiesa.   
+Il mio Dio giovane che muore   
+con l’accusa di agitatore politico.   
+Il mio Dio sacerdote e profeta   
+che subisce la morte come la prima vergogna   
+di tutte le inquisizioni della storia.   
+E’ difficile il mio fragile amico della vita.   
+Il mio Dio che soffrì il morso   
+di tutte le tentazioni.   
+Il mio Dio che sudò sangue   
+prima di accettare la volontà del Padre.   
+E’ difficile questo mio Dio,   
+questo mio Dio fragile,   
+per chi pensa di trionfare soltanto vincendo,   
+per chi si difende soltanto uccidendo,   
+per chi salvezza vuol dire sforzo e non regalo,   
+per chi considera peccato quello che è umano,   
+per chi il santo è uguale allo stoico   
+e Cristo a un angelo.   
+E’ difficile il mio Dio Fragile   
+per quelli che continuano a sognare un Dio   
+che non somigli agli uomini.   
+*Juan Arias Martinez*
+
 ## ANNUNCIO DELLA NASCITA DEL SIGNORE (KALENDA)
-Ottavo giorno prima delle calende di gennaio,  
-luna decima.  
-Trascorsi molti secoli dalla creazione del mondo,  
-quando in principio Dio creò il cielo e la terra e  
-plasmò l’uomo a sua immagine;  
+*Ottavo giorno prima delle calende di gennaio,*  
+*luna tredicesima.*  
+
+Trascorsi molti secoli   
+dalla creazione del mondo,  
+quando in principio Dio creò il cielo e la terra   
+e plasmò l’uomo a sua immagine;  
+
 e molti secoli da quando, dopo il diluvio,  
-l’Altissimo aveva fatto risplendere tra le nubi  
-l’arcobaleno, segno dell’alleanza e di pace;  
-ventuno secoli dopo che Abramo, nostro Padre  
-nella fede, migrò dalla terra di Ur dei Caldei;  
-tredici secoli dopo l’uscita del popolo d’Israele  
-dall’Egitto sotto la guida di Mosè;  
-circa mille anni dopo l’unzione regale di Davide;  
-nella sessantacinquesima settimana secondo la  
-profezia di Daniele,  
-all’epoca della centonovantaquattresima  
-Olimpiade;  
-nell’anno settecentocinquantadue dalla  
-fondazione di Roma;  
-nel quarantunesimo anno dell’impero di Cesare  
-Ottaviano Augusto,  
+l’Altissimo aveva fatto risplendere   
+tra le nubi l’arcobaleno,   
+segno dell’alleanza e di pace;  
+
+ventuno secoli dopo che Abramo,   
+nostro Padre nella fede,   
+migrò dalla terra di Ur dei Caldei;  
+
+tredici secoli dopo l’uscita   
+del popolo d’Israele dall’Egitto   
+sotto la guida di Mosè;  
+
+circa mille anni dopo   
+l’unzione regale di Davide;  
+
+nella sessantacinquesima settimana   
+secondo la profezia di Daniele;   
+
+all’epoca della centonovantaquattresima Olimpiade;  
+
+nell’anno settecentocinquantadue   
+dalla fondazione di Roma;  
+
+nel quarantunesimo anno   
+dell’impero di Cesare Ottaviano Augusto,   
+
 mentre su tutta la terra regnava la pace,  
-Gesù Cristo, Dio eterno e Figlio dell’eterno  
-Padre,  
-volendo santificare il mondo con la sua prima  
-venuta,  
-concepito per opera dello Spirito Santo, trascorsi  
-nove mesi,  
-nasce in Betlemme di Giuda dalla Vergine  
-Maria, fatto uomo:  
-Natale di nostro Signore Gesù Cristo secondo la  
-carne.  
+Gesù Cristo, Dio eterno   
+e Figlio dell’eterno Padre,  
+volendo santificare il mondo   
+con la sua prima venuta,  
+concepito per opera dello Spirito Santo,
+trascorsi nove mesi,  
+nasce in Betlemme di Giuda   
+dalla Vergine Maria, fatto uomo:  
+
+Natale di nostro Signore Gesù Cristo   
+secondo la carne.  
 
 ## Gloria
 {% include canti/273.md %}   
@@ -254,15 +328,19 @@ carne.
 ## Processione
 {% include canti/L243.md %}   
 {% include canti/L017.md %}   
-{% include canti/L260.md %}   
 
 ## Offertorio
 {% include canti/219.md %}   
 
 ## Comunione   
 {% include canti/200.md %}   
-{% include canti/L252.md %}   
-{% include canti/043.md %}   
+{% include canti/278.md %}   
+
+# FISSA GLI OCCHI
+Fissa gli occhi in Gesù,   
+da Lui non distoglierli più   
+e le cose del mondo tu vedi svanir   
+e una luce di gloria apparir.   
 
 ## Finale
 {% include canti/045.md %}   
