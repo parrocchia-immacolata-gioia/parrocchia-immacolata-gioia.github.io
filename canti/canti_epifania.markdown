@@ -7,12 +7,14 @@ permalink: /canti/canti_epifania/
 ## Ingresso
 {% include canti/L260.md %}   
 
+## Gloria
+{% include canti/273.md %}  
+
 ## Offertorio
 {% include canti/211.md %}   
 
 ## Comunione   
 {% include canti/044.md %}   
-{% include canti/046.md %}   
 {% include canti/L017.md %}   
 
 ## Finale
