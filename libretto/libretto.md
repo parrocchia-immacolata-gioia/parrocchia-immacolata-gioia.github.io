@@ -111,6 +111,7 @@ permalink: /libretto/libretto/
 [ 240. PACE SIA, PACE A VOI](/libretto/240/)   
 [ 241. COME TU MI VUOI](/libretto/241/)   
 [ 242. IL TUO VOLTO, SIGNORE](/libretto/242/)   
+[ 243. LA VERA GIOIA](/libretto/243/)   
 [ 246. DALL'AURORA AL TRAMONTO](/libretto/246/)   
 [ 247. È PAROLA DI VITA](/libretto/247/)   
 [ 248. MADRE FIDUCIA NOSTRA](/libretto/248/)   
