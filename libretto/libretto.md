@@ -150,6 +150,7 @@ permalink: /libretto/libretto/
 [ 279. IL SIGNORE È LA LUCE!](/libretto/279/)   
 [ 280. SE CERCATE LA LUCE](/libretto/280/)   
 [ 281. AVE MARIA (VERBUM PANIS)](/libretto/281/)   
+[ 282. HOSANNA](/libretto/282/)   
 [ L1. ACCLAMATE AL SIGNORE](/libretto/L001/)   
 [ L2. ACCOGLI I NOSTRI DONI](/libretto/L002/)   
 [ L3. ACCOGLIMI](/libretto/L003/)   
