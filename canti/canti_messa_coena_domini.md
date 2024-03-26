@@ -7,6 +7,12 @@ permalink: /canti/messa_in_coena_domini/
 ## Ingresso
 {% include canti/L121.md %}     
 
+## Kyrie
+{% include canti/231.md %}     
+
+## Gloria
+{% include canti/228.md %}     
+
 ## Lavanda
 {% include canti/LS20.md %}     
 
@@ -14,7 +20,6 @@ permalink: /canti/messa_in_coena_domini/
 {% include canti/LS09.md %}   
 
 ## Comunione   
-{% include canti/L055.md %}   
 {% include canti/193.md %}    
 {% include canti/L234.md %}    
 

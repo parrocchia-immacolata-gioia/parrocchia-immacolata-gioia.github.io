@@ -103,6 +103,7 @@ permalink: /libretto/libretto/
 [ 218. INSIEME A TE](/libretto/218/)   
 [ 219. TI OFFRIAMO IL PANE](/libretto/219/)   
 [ 224. COME FUOCO VIVO](/libretto/224/)   
+[ 228. GLORIA A DIO (POPOLO SANTO)](/libretto/228/)   
 [ 230. 	IL SIGNORE HA MESSO UN SEME](/libretto/230/)   
 [ 231. KYRIE ELEISON](/libretto/231/)   
 [ 232. LUCE DI VERITÀ](/libretto/232/)   
