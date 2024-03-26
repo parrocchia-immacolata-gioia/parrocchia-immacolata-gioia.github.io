@@ -20,8 +20,8 @@ list_title: Messaggi
 - 18:30 dal 1 ottobre al 31 maggio
 - 19:00 dal 1 giugno al 30 settembre
 
-# Epifania
-[Canti di accompagnamento alla messa](canti/canti_epifania)   
+# Messa “in Coena Domini”
+[Canti di accompagnamento alla messa](canti/messa_in_coena_domini)   
 
 # Canti di accompagnamento alla messa
 [Messa domenicale delle 10:30](canti/canti_dieci_mezza)  
