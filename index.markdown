@@ -20,8 +20,8 @@ list_title: Messaggi
 - 18:30 dal 1 ottobre al 31 maggio
 - 19:00 dal 1 giugno al 30 settembre
 
-# Messa “in Coena Domini”
-[Canti di accompagnamento alla messa](canti/messa_in_coena_domini)   
+# Settimana santa
+[Letture e canti per le messe della settimana santa](settimana_santa)   
 
 # Canti di accompagnamento alla messa
 [Messa domenicale delle 10:30](canti/canti_dieci_mezza)  
