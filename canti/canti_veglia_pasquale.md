@@ -7,11 +7,94 @@ permalink: /canti/veglia_pasquale/
 ## Ingresso   
 {% include canti/L106.md %}   
 
-## Aspersione   
-{% include canti/024.md %}   
+## Exsultet
 
-## Gloria   
-{% include canti/116.md %}   
+<p>
+Esulti il coro degli angeli,<br>
+esulti l'assemblea celeste:<br>
+un inno di gloria saluti il trionfo del Signore risorto.<br>
+Gioisca la terra inondata da così grande splendore:<br>
+la luce del Re eterno ha vinto le tenebre del mondo.<br>
+Gioisca la madre Chiesa, splendente della gloria del suo Signore,<br>
+e questo tempio tutto risuoni<br>
+per le acclamazioni del popolo in festa.<br>
+E voi, fratelli carissimi,<br>
+qui radunati nella solare chiarezza di questa nuova luce,<br>
+invocate con me la misericordia di Dio onnipotente.<br>
+Egli che mi ha chiamato, senza alcun merito,<br>
+nel numero dei suoi ministri, irradi il suo mirabile fulgore,<br>
+perché sia piena e perfetta la lode di questo cero.<br><br>
+
+<b>R. Tu sei la luce. Tu sei la vita. Gloria a Te Signore!</b><br><br>
+
+Il Signore sia con voi.<br>
+<i>E con il tuo spirito.</i><br><br>
+
+
+In alto i nostri cuori.<br>
+<i>Sono rivolti al Signore.</i><br><br>
+
+Rendiamo grazie al Signore, nostro Dio.<br>
+<i>È cosa buona e giusta.</i><br><br>
+
+
+È veramente cosa buona e giusta<br>
+esprimere con il canto l'esultanza dello spirito,<br>
+e inneggiare al Dio invisibile, Padre onnipotente,<br>
+e al suo unico Figlio, Gesù Cristo nostro Signore.<br><br>
+
+Egli ha pagato per noi all'eterno Padre il debito di Adamo,<br>
+e con il sangue sparso per noi<br>
+ha cancellato la condanna della colpa antica.<br>
+Questa è la vera Pasqua, questa è la vera Pasqua<br>
+in cui è ucciso il vero Agnello,<br>
+che con il suo sangue consacra le case dei fedeli.<br>
+Questa è la notte in cui hai liberato i figli di Israele, nostri Padri,<br>
+dalla schiavitù d'Egitto,<br>
+e li hai fatti passare illesi attraverso il Mar Rosso.<br>
+Questa è la notte in cui hai vinto le tenebre del peccato<br>
+con lo splendore della colonna di fuoco.<br><br>
+
+<b>R. Tu sei la luce. Tu sei la vita. Gloria a Te Signore!</b><br><br>
+
+Questa è la notte che salva su tutta la terra i credenti nel Cristo<br>
+dall'oscurità del peccato e dalla corruzione del mondo,<br>
+li consacra all'amore del Padre<br>
+e li unisce nella comunione dei santi.<br>
+Questa è la notte in cui Cristo spezzando i vincoli della morte<br>
+risorge vittorioso dal sepolcro.<br>
+O immensità del tuo amore per noi! O inestimabile segno di bontà:<br>
+per riscattare lo schiavo, hai sacrificato il tuo Figlio!<br>
+Davvero era necessario il peccato di Adamo,<br>
+che è stato distrutto con la morte del Cristo.<br>
+Felice colpa, felice colpa, felice colpa,<br>
+che meritò di avere un così grande redentore!<br>
+Il santo mistero di questa notte sconfigge il male,<br>
+lava le colpe, restituisce l'innocenza ai peccatori,<br>
+la gioia agli afflitti.<br>
+O notte veramente gloriosa,<br>
+che ricongiunge la terra al cielo e l'uomo al suo creatore!<br><br>
+
+<b>R. Tu sei la luce. Tu sei la vita. Gloria a Te Signore!</b><br><br>
+
+In questa notte di grazia accogli, Padre santo, il sacrificio di lode,<br>
+che la Chiesa ti offre per mano dei suoi ministri,<br>
+nella solenne liturgia del cero,<br>
+frutto del lavoro delle api, simbolo della nuova luce.<br>
+Ti preghiamo, dunque, Signore, che questo cero,<br>
+offerto in onore del tuo nome<br>
+per illuminare l'oscurità di questa notte,<br>
+risplenda di luce che mai si spegne.<br>
+Salga a te come profumo soave,<br>
+si confonda con le stelle del cielo.<br>
+Lo trovi acceso la stella del mattino,<br>
+questa stella che non conosce tramonto:<br>
+Cristo, tuo Figlio, che risuscitato dai morti<br>
+fa risplendere sugli uomini la sua luce serena<br>
+e vive e regna nei secoli dei secoli.<br>
+Amen. Amen. Amen. Amen.<br><br>
+</p>
+
 
 ## Prima Lettura
 Dal libro della Gènesi   
@@ -384,6 +467,9 @@ a Dio, mia gioiosa esultanza.
 A te canterò sulla cetra,   
 Dio, Dio mio. **R.**   
 
+## Gloria   
+{% include canti/228.md %}   
+
 ## Epistola
 Dalla lettera di san Paolo apostolo ai Romani   
 Rm 6,3-11
@@ -427,6 +513,9 @@ Ed ecco, Gesù venne loro incontro e disse: «Salute a voi!». Ed esse si avvici
 
 Parola del Signore.
 
+## Liturgia dell'acqua
+{% include canti/024.md %}    
+{% include canti/L082.md %}   
 
 ## Offertorio   
 {% include canti/L225.md %}   

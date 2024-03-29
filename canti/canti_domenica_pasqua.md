@@ -7,6 +7,12 @@ permalink: /canti/canti_domenica_pasqua/
 ## Ingresso
 {% include canti/059.md %}     
 
+## Gloria
+{% include canti/183.md %}     
+
+## Rito Battesimale
+{% include canti/L082.md %}     
+
 ## Offertorio
 {% include canti/L225.md %}   
 
