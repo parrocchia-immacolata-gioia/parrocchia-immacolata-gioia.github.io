@@ -153,6 +153,7 @@ permalink: /libretto/libretto/
 [ 281. AVE MARIA (VERBUM PANIS)](/libretto/281/)   
 [ 282. HOSANNA](/libretto/282/)   
 [ 283. INVOCHIAMO LA TUA PRESENZA](/libretto/283/)   
+[ 284. NEL TUO SILENZIO](/libretto/284/)   
 [ L1. ACCLAMATE AL SIGNORE](/libretto/L001/)   
 [ L2. ACCOGLI I NOSTRI DONI](/libretto/L002/)   
 [ L3. ACCOGLIMI](/libretto/L003/)   
