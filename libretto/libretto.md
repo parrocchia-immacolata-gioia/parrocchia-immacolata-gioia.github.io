@@ -154,6 +154,7 @@ permalink: /libretto/libretto/
 [ 282. HOSANNA](/libretto/282/)   
 [ 283. INVOCHIAMO LA TUA PRESENZA](/libretto/283/)   
 [ 284. NEL TUO SILENZIO](/libretto/284/)   
+[ 285. CHIAMATI PER NOME](/libretto/285/)   
 [ L1. ACCLAMATE AL SIGNORE](/libretto/L001/)   
 [ L2. ACCOGLI I NOSTRI DONI](/libretto/L002/)   
 [ L3. ACCOGLIMI](/libretto/L003/)   
