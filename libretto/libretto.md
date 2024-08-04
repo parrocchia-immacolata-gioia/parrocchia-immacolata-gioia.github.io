@@ -78,6 +78,7 @@ permalink: /libretto/libretto/
 [ 159. UN TEMPO DI GRAZIA](/libretto/159/)   
 [ 161. PANE DI VITA NUOVA](/libretto/161/)   
 [ 163. VIENI SANTO SPIRITO](/libretto/163/)   
+[ 172. SIGNORE, DA CHI ANDREMO?](/libretto/172/)   
 [ 173. AL SIGNORE CANTERÒ](/libretto/173/)   
 [ 181. PANE E VINO TI OFFRIAMO](/libretto/181/)   
 [ 183. GLORIA A DIO](/libretto/183/)   
