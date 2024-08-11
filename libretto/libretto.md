@@ -80,6 +80,7 @@ permalink: /libretto/libretto/
 [ 163. VIENI SANTO SPIRITO](/libretto/163/)   
 [ 172. SIGNORE, DA CHI ANDREMO?](/libretto/172/)   
 [ 173. AL SIGNORE CANTERÒ](/libretto/173/)   
+[ 174. PANE DI VITA](/libretto/174/)   
 [ 181. PANE E VINO TI OFFRIAMO](/libretto/181/)   
 [ 183. GLORIA A DIO](/libretto/183/)   
 [ 186. INCONTRARE TE](/libretto/186/)   
