@@ -10,7 +10,7 @@
 		<div class="wrapper">
 			<article class="post">
 				<header class="post-header">
-					<h1 class="post-title">{{ page.title | escape }}</h1>
+					<h1 id="header_text" class="post-title">{{ page.title | escape }}</h1>
 				</header>
 				<div class="post-content">
 					<div class="wrapper">
@@ -64,22 +64,27 @@
 				
 				var list = '';
 				json.table.cols.forEach(function (col, index) {
-					list += '<h2 id="';
-					list += col.label.toLowerCase().replace(".", "").replace(" ","-");
-					list += '">';
-					list += col.label;
-					list += '</h2>\n';
+					if (index === 0) {
+						document.getElementById("header_text").innerHTML = col.label;
+						document.title = col.label;
+					} else {
+						list += '<h2 id="';
+						list += col.label.toLowerCase().replace(".", "").replace(" ","-");
+						list += '">';
+						list += col.label;
+						list += '</h2>\n';
 					
-					json.table.rows.forEach(row => {
-						var cell = row.c[index]
-						if(cell != null && cell.v != null) {
-							var songNumber = cell.v;
-							if(songNumber.startsWith("F")) {
-								songNumber = songNumber.substring(1);
+						json.table.rows.forEach(row => {
+							var cell = row.c[index]
+							if(cell != null && cell.v != null) {
+								var songNumber = cell.v;
+								if(songNumber.startsWith("F")) {
+									songNumber = songNumber.substring(1);
+								}
+								list += '<div w3-include-html="../../libretto/' + songNumber + '/"><div class="loader"></div></div>\n';
 							}
-							list += '<div w3-include-html="../../libretto/' + songNumber + '/"><div class="loader"></div></div>\n';
-						}
-					})
+						})
+					}
 				})
 				
 				return list;
@@ -96,5 +101,4 @@
 		}
 	</script>
   </body>
-
 </html>
