@@ -242,6 +242,7 @@ permalink: /libretto/libretto/
 [ L219. SIGNORE, SULLA TUA PAROLA](/libretto/L219/)   
 [ L225. SULL'ALTARE DEL MONDO](/libretto/L225/)   
 [ L226. SYMBOLUM '77 (TU SEI LA MIA VITA)](/libretto/L226/)   
+[ L227. TE AL CENTRO DEL MIO CUORE](/libretto/L227/)   
 [ L232. TI ESALTO, DIO, MIO RE](/libretto/L232/)   
 [ L234. TI RENDIAMO GRAZIE](/libretto/L234/)   
 [ L236. TI SEGUIRÒ ](/libretto/L236/)   
