@@ -20,8 +20,8 @@ list_title: Messaggi
 - 18:30 dal 1 ottobre al 31 maggio
 - 19:00 dal 1 giugno al 30 settembre
 
-# Settimana santa
-[Letture e canti per le messe della settimana santa](settimana_santa)   
+# Novena
+[Novena di Natale 2024](downloads/novena_natale.pdf) 
 
 # Canti di accompagnamento alla messa
 [Messa domenicale delle 10:30](canti/canti_dieci_mezza)  
