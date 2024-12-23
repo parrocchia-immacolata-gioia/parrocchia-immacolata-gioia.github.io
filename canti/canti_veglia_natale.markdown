@@ -190,92 +190,9 @@ oggi su tutta la terra i cieli stillano dolcezza.
 V. Risplende per noi il giorno di una nuova redenzione, giorno preparato da secoli, gioia senza fine.  
 R. Oggi su tutta la terra i cieli stillano dolcezza.  
 
-## Il mio Dio è fragile
-
-Il mio Dio non è un Dio duro, impenetrabile,   
-insensibile, stoico, impassibile.   
-Il mio Dio è fragile.   
-E’ della mia razza.   
-E io della sua.   
-Lui è uomo e io quasi Dio.   
-Perché io potessi assaporare la divinità   
-Lui amò il mio fango.   
-L’amore ha reso fragile il mio Dio.   
-Il mio Dio ebbe fame e sonno e si riposò.   
-Il mio Dio fu sensibile.   
-Il mio Dio si irritò, fu passionale,   
-e fu dolce come un bambino.   
-Il mio Dio fu nutrito da una madre,   
-ne sentì e bevve tutta la tenerezza femminile.   
-Il mio Dio tremò dinnanzi alla morte.   
-Non amò mai il dolore, non fu mai amico   
-della malattia. Per questo curò gli infermi.   
-Il mio Dio patì l’esilio,   
-fu perseguitato e acclamato.   
-Amò tutto quanto è umano, il mio Dio:   
-le cose e gli uomini, il pane e la donna;   
-i buoni e i peccatori.   
-Il mio Dio fu un uomo del suo tempo.   
-Vestiva come tutti,   
-parlava il dialetto della sua terra,   
-lavorava con le sue mani,   
-gridava come i profeti.   
-Il mio Dio fu debole con i deboli   
-e superbo con i superbi.   
-Morì giovane perché era sincero.   
-Lo uccisero perché lo tradiva la verità che era   
-nei suoi occhi.   
-Ma il mio Dio morì senza odiare.   
-Morì scusando più che perdonando.   
-Il mio Dio è fragile.   
-Il mio Dio ruppe con la vecchia morale   
-del dente per dente,   
-della vendetta meschina,   
-per inaugurare la frontiera di un amore   
-e di una violenza totalmente nuova.   
-Il mio Dio gettato nel solco,   
-schiacciato contro terra,   
-tradito, abbandonato, incompreso,   
-continuò ad amare.   
-Per questo il mio Dio vinse la morte.   
-E comparve con un frutto nuovo tra le mani:   
-la Resurrezione.   
-Per questo noi siamo tutti sulla via   
-della Resurrezione:   
-gli uomini e le cose.   
-E’ difficile per tanti il mio Dio fragile.   
-Il mio Dio che piange,   
-il mio Dio che non si difende.   
-E’ difficile il mio Dio abbandonato da Dio.   
-Il mio Dio che deve morire per trionfare.   
-Il mio Dio che fa di un ladro e criminale   
-il primo santo della sua Chiesa.   
-Il mio Dio giovane che muore   
-con l’accusa di agitatore politico.   
-Il mio Dio sacerdote e profeta   
-che subisce la morte come la prima vergogna   
-di tutte le inquisizioni della storia.   
-E’ difficile il mio fragile amico della vita.   
-Il mio Dio che soffrì il morso   
-di tutte le tentazioni.   
-Il mio Dio che sudò sangue   
-prima di accettare la volontà del Padre.   
-E’ difficile questo mio Dio,   
-questo mio Dio fragile,   
-per chi pensa di trionfare soltanto vincendo,   
-per chi si difende soltanto uccidendo,   
-per chi salvezza vuol dire sforzo e non regalo,   
-per chi considera peccato quello che è umano,   
-per chi il santo è uguale allo stoico   
-e Cristo a un angelo.   
-E’ difficile il mio Dio Fragile   
-per quelli che continuano a sognare un Dio   
-che non somigli agli uomini.   
-*Juan Arias Martinez*
-
 ## ANNUNCIO DELLA NASCITA DEL SIGNORE (KALENDA)
 *Ottavo giorno prima delle calende di gennaio,*  
-*luna tredicesima.*  
+*luna ventiquattresima.*  
 
 Trascorsi molti secoli   
 dalla creazione del mondo,  
@@ -333,7 +250,7 @@ secondo la carne.
 {% include canti/219.md %}   
 
 ## Comunione   
-{% include canti/200.md %}   
+{% include canti/044.md %}   
 {% include canti/278.md %}   
 
 # FISSA GLI OCCHI
