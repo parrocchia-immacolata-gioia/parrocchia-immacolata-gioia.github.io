@@ -23,6 +23,9 @@ list_title: Messaggi
 # Novena
 [Novena di Natale 2024](downloads/novena_natale.pdf) 
 
+# Veglia di Natale
+[Ufficio letture e canti per la veglia di Natale](canti/canti_veglia_natale)
+
 # Canti di accompagnamento alla messa
 [Messa domenicale delle 10:30](canti/canti_dieci_mezza)  
 [Messa domenicale delle 18:30](canti/canti_diciotto_mezza)  
