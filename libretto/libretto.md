@@ -161,6 +161,7 @@ permalink: /libretto/libretto/
 [ 286. ALLELUIA PASSERANNO I CIELI](/libretto/286/)   
 [ 287. COME L'AURORA VERRAI](/libretto/287/)   
 [ 288. VIENI GESÙ, MARANATHA](/libretto/288/)   
+[ 289. VENITE AL BANCHETTO NUZIALE](/libretto/289/)   
 [ L1. ACCLAMATE AL SIGNORE](/libretto/L001/)   
 [ L2. ACCOGLI I NOSTRI DONI](/libretto/L002/)   
 [ L3. ACCOGLIMI](/libretto/L003/)   
