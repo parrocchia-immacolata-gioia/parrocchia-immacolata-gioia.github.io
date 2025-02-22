@@ -111,6 +111,7 @@ permalink: /libretto/libretto/
 [ 231. KYRIE ELEISON](/libretto/231/)   
 [ 232. LUCE DI VERITÀ](/libretto/232/)   
 [ 234. LODE AL NOME TUO](/libretto/234/)   
+[ 236. SEGNI DEL TUO AMORE](/libretto/236/)   
 [ 237. ECCO IL NOSTRO SÌ](/libretto/237/)   
 [ 238. FRUTTO DELLA NOSTRA TERRA](/libretto/238/)   
 [ 240. PACE SIA, PACE A VOI](/libretto/240/)   
