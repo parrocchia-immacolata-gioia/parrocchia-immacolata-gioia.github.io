@@ -164,6 +164,7 @@ permalink: /libretto/libretto/
 [ 288. VIENI GESÙ, MARANATHA](/libretto/288/)   
 [ 289. VENITE AL BANCHETTO NUZIALE](/libretto/289/)   
 [ 290. LA TUA PAROLA È LUCE](/libretto/290/)   
+[ 291. PELLEGRINI DI SPERANZA](/libretto/291/)   
 [ L1. ACCLAMATE AL SIGNORE](/libretto/L001/)   
 [ L2. ACCOGLI I NOSTRI DONI](/libretto/L002/)   
 [ L3. ACCOGLIMI](/libretto/L003/)   
