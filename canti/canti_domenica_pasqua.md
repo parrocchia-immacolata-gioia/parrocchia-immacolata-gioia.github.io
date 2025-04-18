@@ -8,7 +8,7 @@ permalink: /canti/canti_domenica_pasqua/
 {% include canti/059.md %}     
 
 ## Gloria
-{% include canti/183.md %}     
+{% include canti/076.md %}     
 
 ## Rito Battesimale
 {% include canti/L082.md %}     

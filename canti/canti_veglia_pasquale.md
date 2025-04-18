@@ -357,14 +357,15 @@ perché grande in mezzo a te è il Santo d’Israele. **R.**
 
 ## Sesta Lettura
 Dal libro del profeta Baruc   
-Bar 3, 9-15.32-4,4
+Bar 3,9-15.32a-Bar 4,1-4
 
 Ascolta, Israele, i comandamenti della vita,   
 porgi l’orecchio per conoscere la prudenza.   
 Perché, Israele? Perché ti trovi in terra nemica e   
 sei diventato vecchio in terra straniera?   
 Perché ti sei contaminato con i morti   
-e sei nel numero di quelli che scendono negli inferi? Tu hai abbandonato la fonte della sapienza!   
+e sei nel numero di quelli che scendono negli inferi?   
+Tu hai abbandonato la fonte della sapienza!   
 Se tu avessi camminato nella via di Dio,   
 avresti abitato per sempre nella pace.   
 Impara dov’è la prudenza,   
@@ -502,16 +503,15 @@ Questo è stato fatto dal Signore:
 una meraviglia ai nostri occhi. **R.**   
 
 ## Vangelo
-Dal Vangelo secondo Matteo
-Mt 28,1-10
+Dal Vangelo secondo Luca   
+Lc 24,1-12
 
-Dopo il sabato, all’alba del primo giorno della settimana, Maria di Màgdala e l’altra Maria andarono a visitare la tomba.
-Ed ecco, vi fu un gran terremoto. Un angelo del Signore, infatti, sceso dal cielo, si avvicinò, rotolò la pietra e si pose a sedere su di essa. Il suo aspetto era come folgore e il suo vestito bianco come neve. Per lo spavento che ebbero di lui, le guardie furono scosse e rimasero come morte.   
-L’angelo disse alle donne: «Voi non abbiate paura! So che cercate Gesù, il crocifisso. Non è qui. È risorto, infatti, come aveva detto; venite, guardate il luogo dove era stato deposto. Presto, andate a dire ai suoi discepoli: “È risorto dai morti, ed ecco, vi precede in Galilea; là lo vedrete”. Ecco, io ve l’ho detto».   
-Abbandonato in fretta il sepolcro con timore e gioia grande, le donne corsero a dare l’annuncio ai suoi discepoli.   
-Ed ecco, Gesù venne loro incontro e disse: «Salute a voi!». Ed esse si avvicinarono, gli abbracciarono i piedi e lo adorarono. Allora Gesù disse loro: «Non temete; andate ad annunciare ai miei fratelli che vadano in Galilea: là mi vedranno».   
+Il primo giorno della settimana, al mattino presto [le donne] si recarono al sepolcro, portando con sé gli aromi che avevano preparato. Trovarono che la pietra era stata rimossa dal sepolcro e, entrate, non trovarono il corpo del Signore Gesù.   
+Mentre si domandavano che senso avesse tutto questo, ecco due uomini presentarsi a loro in abito sfolgorante. Le donne, impaurite, tenevano il volto chinato a terra, ma quelli dissero loro: «Perché cercate tra i morti colui che è vivo? Non è qui, è risorto. Ricordatevi come vi parlò quando era ancora in Galilea e diceva: “Bisogna che il Figlio dell’uomo sia consegnato in mano ai peccatori, sia crocifisso e risorga il terzo giorno”».   
+Ed esse si ricordarono delle sue parole e, tornate dal sepolcro, annunciarono tutto questo agli Undici e a tutti gli altri. Erano Maria Maddalena, Giovanna e Maria madre di Giacomo. Anche le altre, che erano con loro, raccontavano queste cose agli apostoli.   
+Quelle parole parvero a loro come un vaneggiamento e non credevano ad esse. Pietro tuttavia si alzò, corse al sepolcro e, chinatosi, vide soltanto i teli. E tornò indietro, pieno di stupore per l’accaduto.   
 
-Parola del Signore.
+Parola del Signore.   
 
 ## Liturgia dell'acqua
 {% include canti/024.md %}    
