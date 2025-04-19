@@ -514,6 +514,98 @@ Quelle parole parvero a loro come un vaneggiamento e non credevano ad esse. Piet
 Parola del Signore.   
 
 ## Liturgia dell'acqua
+
+**Litanie**   
+
+Signore pietà   
+Cristo pietà   
+Signore pietà   
+
+Padre, fonte della vita   
+**R. Pietà di noi**   
+Figlio, parola fatta carne   
+**R. Pietà di noi**   
+Spirito Santo, fuoco dell'amore   
+**R. Pietà di noi**   
+
+Trinità santa che abiti nei cuori   
+**R. Pietà di noi**   
+Maria, vergine madre di Dio   
+**R. Prega per noi**   
+Angeli, ministri della gloria   
+**R. Pregate per noi**   
+
+S. Giovanni battista, precursore di Cristo   
+**R. Prega per noi**   
+S. Stefano, ricolmo di Spirito Santo   
+**R. Prega per noi**   
+S. Ignazio, frumento di Cristo   
+**R. Prega per noi**   
+
+S. Agostino, inquieto cercatore di Dio   
+**R. Prega per noi**   
+S. Davide, re e profeta   
+**R. Prega per noi**   
+S. Martino, padre del monachesimo in occidente   
+**R. Prega per noi**   
+
+S. Benedetto, guida nella vita del vangelo   
+**R. Prega per noi**   
+S. Francesco, immagine fedele di Cristo   
+**R. Prega per noi**   
+S. Domenico, predicatore della vita contemplata   
+**R. Prega per noi**   
+
+S. Giuseppe, sposo fedele di Maria   
+**R. Prega per noi**   
+S. Filippo neri, gioioso nello Spirito Santo   
+**R. Prega per noi**   
+S. Pasquale, umile amante dell'eucarestia   
+**R. Prega per noi**   
+
+S. Caterina da Siena ardente di amore per Cristo   
+**R. Prega per noi**   
+S. Antonio, maestro di comunione fraterna   
+**R. Prega per noi**   
+Voi tutti Santi della Chiesa   
+**R. Pregate per noi**   
+
+Nella Tua misericordia   
+**R. Salvaci Signore**   
+Da ogni male e peccato   
+**R. Salvaci Signore**   
+Dalla morte eterna   
+**R. Salvaci Signore**   
+
+Per la Tua incarnazione   
+**R. Salvaci Signore**   
+Per la Tua morte e resurrezione   
+**R. Salvaci Signore**   
+Per il dono dello Spirito Santo   
+**R. Salvaci Signore**   
+
+Conforta e illumina la Tua Santa Chiesa   
+**R. Ascoltaci Signore**   
+Proteggi il Papa, i vescovi, e i sacerdoti   
+**R. Ascoltaci Signore**   
+Assisti i missionari del Vangelo   
+**R. Ascoltaci Signore**   
+
+Benedici e santifica con la grazia del Tuo Spirito questo fonte battesimale da cui nascono i Tuoi figli   
+**R. Ascoltaci Signore**   
+Dona al mondo intero la giustizia e la pace   
+**R. Ascoltaci Signore**   
+Benedici questo popolo a Te consacrato   
+**R. Ascoltaci Signore**   
+
+Gesù, fonte dell'acqua della vita   
+**R. Ti preghiamo salvaci**   
+Gesù, Via, Verità e Vita   
+**R. Ti preghiamo salvaci**   
+Gesù, figlio del Dio vivente   
+**R. Ti preghiamo salvaci**   
+
+
 {% include canti/024.md %}    
 {% include canti/L082.md %}   
 
