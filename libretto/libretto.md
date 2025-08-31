@@ -70,6 +70,7 @@ permalink: /libretto/libretto/
 [ 122. IO TI OFFRO](/libretto/122/)   
 [ 124. IL SALE](/libretto/124/)   
 [ 127. GIOVANE MARIA](/libretto/127/)   
+[ 129. BISOGNA GRIDARE LA GIOIA](/libretto/129/)   
 [ 134. GLORIA A TE, CRISTO GESÙ](/libretto/134/)   
 [ 135. IO CANTO LA MIA GIOIA](/libretto/135/)   
 [ 144. CANTA E CAMMINA](/libretto/144/)   
