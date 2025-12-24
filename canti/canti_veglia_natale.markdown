@@ -192,7 +192,7 @@ R. Oggi su tutta la terra i cieli stillano dolcezza.
 
 ## ANNUNCIO DELLA NASCITA DEL SIGNORE (KALENDA)
 *Ottavo giorno prima delle calende di gennaio,*  
-*luna ventiquattresima.*  
+*luna quinta.*  
 
 Trascorsi molti secoli   
 dalla creazione del mondo,  
