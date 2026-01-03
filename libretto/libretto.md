@@ -30,6 +30,7 @@ permalink: /libretto/libretto/
 [ 25. BEATI QUELLI](/libretto/025/)   
 [ 26. RITMATE SUI TAMBURI](/libretto/026/)   
 [ 28. ANDATE IN MEZZO A LORO](/libretto/028/)   
+[ 30. AMICI È LUI](/libretto/030/)   
 [ 34. VA' SULLA TERRA](/libretto/034/)   
 [ 35. APRITEVI O CIELI](/libretto/035/)   
 [ 36. IL SIGNORE È VICINO](/libretto/036/)   
