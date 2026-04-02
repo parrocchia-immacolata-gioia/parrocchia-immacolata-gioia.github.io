@@ -5,13 +5,14 @@ permalink: /canti/messa_in_coena_domini/
 ---
 
 ## Ingresso
-{% include canti/291.md %}     
+{% include canti/L121.md %}     
 
 ## Gloria
 {% include canti/228.md %}     
 
 ## Lavanda
 {% include canti/L197.md %}     
+{% include canti/292.md %}     
 
 ## Offertorio
 {% include canti/LS09.md %}   

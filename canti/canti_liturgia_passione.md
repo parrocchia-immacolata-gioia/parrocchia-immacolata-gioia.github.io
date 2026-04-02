@@ -10,4 +10,5 @@ permalink: /canti/liturgia_passione/
 
 ## Comunione   
 {% include canti/257.md %}    
+{% include canti/L234.md %}    
 {% include canti/L134.md %}    
