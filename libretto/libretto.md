@@ -232,6 +232,7 @@ permalink: /libretto/libretto/
 [ L103. IL CANTO DELL'AGNELLO](/libretto/L103/)   
 [ L106. IL FUOCO DELLA PASQUA](/libretto/L106/)   
 [ L110. IL SIGNORE È IL MIO PASTORE](/libretto/L110/)   
+[ L115. IN SPIRITO E VERITÀ](/libretto/L115/)   
 [ L119. IO TI CERCO, SIGNORE](/libretto/L119/)   
 [ L121. LA DIMORA DI DIO TRA GLI UOMINI (C. E. I.)](/libretto/L121/)   
 [ L131. LO SPIRITO DEL SIGNORE](/libretto/L131/)   
