@@ -169,6 +169,7 @@ permalink: /libretto/libretto/
 [ 291. PELLEGRINI DI SPERANZA](/libretto/291/)   
 [ 292. SERVIRE È REGNARE](/libretto/292/)   
 [ 293. IN QUESTA OSCURITÀ](/libretto/293/)   
+[ 294. PIETRE VIVE](/libretto/294/)   
 [ 65. IL PANE](/libretto/65/)   
 [ L1. ACCLAMATE AL SIGNORE](/libretto/L001/)   
 [ L2. ACCOGLI I NOSTRI DONI](/libretto/L002/)   
