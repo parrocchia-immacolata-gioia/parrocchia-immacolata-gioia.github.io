@@ -69,6 +69,7 @@ permalink: /libretto/libretto/
 [ 115. SPIRITO SANTO VIENI](/libretto/115/)   
 [ 116. GLORIA A DIO](/libretto/116/)   
 [ 117. SCUSA SIGNORE](/libretto/117/)   
+[ 118. TI RINGRAZIO](/libretto/118/)   
 [ 122. IO TI OFFRO](/libretto/122/)   
 [ 124. IL SALE](/libretto/124/)   
 [ 127. GIOVANE MARIA](/libretto/127/)   
