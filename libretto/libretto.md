@@ -225,6 +225,7 @@ permalink: /libretto/libretto/
 [ L83. ECCO L'UOMO](/libretto/L083/)   
 [ L84. ECCOMI](/libretto/L084/)   
 [ L86. È GIUNTA L'ORA](/libretto/L086/)   
+[ L92. FRATELLO SOLE, SORELLA LUNA](/libretto/L092/)   
 [ L93. GENTI TUTTE](/libretto/L093/)   
 [ L96. GIOVANE DONNA](/libretto/L096/)   
 [ L98. GLORIA A TE, PAROLA VIVENTE](/libretto/L098/)   
